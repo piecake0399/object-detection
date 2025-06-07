@@ -3,7 +3,6 @@ from tensorflow import keras
 from tensorflow.keras import layers
 import numpy as np
 
-# Để đảm bảo tính tái lập
 tf.random.set_seed(42)
 np.random.seed(42)
 
